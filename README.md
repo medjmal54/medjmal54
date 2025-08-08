@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medjmal54&show_icons=true&locale=en" alt="medjmal54" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=medjmal54&" alt="medjmal54" /></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/medjmal54"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medjmal54" /></a></p><br><br>
