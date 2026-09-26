@@ -1,6 +1,4 @@
-## Header
-
-Hi, I'm **medjmal54**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+### Hi, I'm **medjmal54**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
