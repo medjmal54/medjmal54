@@ -36,8 +36,8 @@ Hi, I'm **medjmal54**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/stats?username=medjmal54&theme=github-dark" alt="medjmal54 stats section" />
   </picture>
 </p>
-## Projects
-
+<h2>Projects</h2>
+<hr />
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=medjmal54&theme=github-dark&mode=light" />
