@@ -1,7 +1,3 @@
-# medjmal54
-
-> Recruiter-friendly proof and contact path.
-
 ## Header
 
 Hi, I'm **medjmal54**. This README shares what I'm building, the tools I use, and the work I'm proud of.
